@@ -1,36 +1,36 @@
-# lexicon-site
+# lexicon  网站
 
 [![Built with Electric](https://img.shields.io/badge/built%20with-electric-f3c302.svg?style=flat)](http://electricjs.com)
 
-## Setup
+## 设置
 
-1. Make sure you have [node and npm](https://nodejs.org/en/download/) installed:
+1. 确保你已经安装了 [node 和 npm](https://nodejs.org/en/download/) ：
 
 ```sh
 node -v && npm -v
 ```
 
-2. Install our global dependencies:
+2. 安装全局依赖：
 
 ```sh
 [sudo] npm i -g electric-cli@alpha
 ```
 
-3. Install our local dependencies:
+3. 安装本地依赖：
 
 ```sh
 npm i
 ```
 
-## Usage
+## 用法
 
-* Build the site, serve it locally, and watch for any changes:
+* 构建网站，在本地运行服务，并观察任何变化：
 
 ```
 electric run
 ```
 
-* Deploy to production (send build files to `wedeploy-lexicon2` branch):
+* 部署到生成环境（发送构建文件到 `wedeploy-lexicon2` 分支）：
 
 ```
 electric deploy
