@@ -7,7 +7,7 @@ weight: 1
 ---
 
 
-### Design language
+### 设计语言
 
 Lexicon is a design language that provides a common framework for building interfaces within the Liferay product ecosystem. It is a guide to  foundations, components, patterns, and use cases that provide consistency and coherence to these products, and, ultimately, provides a satisfactory and unified experience to its users.
 
