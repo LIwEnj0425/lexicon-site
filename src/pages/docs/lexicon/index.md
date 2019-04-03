@@ -78,7 +78,7 @@ Lexicon采用模块化方法进行界面设计。它是一个内聚性的系统�
 
 | 标签 | 应用场景 |
 | ---- | ----- |
-| <a class="label-link label label-warning" href="https://clayui.com/" target="_blank">在CLAY中插件</a> | 指向模式实现的链接 |
+| <a class="label-link label label-warning" href="https://clayui.com/" target="_blank">在CLAY中查看</a> | 指向模式实现的链接 |
 | <span class="label label-info">产品名称</span> | 该模式用于具体产品或应用中 |
 | <span class="label label-secondary">待处理</span> | 该模式已被设计并将在Clay或产品/应用程序中实现 |
 
